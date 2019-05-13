@@ -1,0 +1,52 @@
+created: 20190509025610667
+modified: 20190509034343957
+tags: sheets
+title: Extra sheet
+type: text/vnd.tiddlywiki
+
+| !Name| |
+| !Description| |
+| !Permission| |
+| !Cost| |
+
+---
+
+! Aspects
+
+| !High concept| |
+| !Trouble| |
+| !Signature| |
+
+! Skills
+
+| !Legendary (+8)| !X | !X | !X | !X |
+| !Epic (+7)| !X | !X | !X | !X |
+| !Fantastic (+6)| !X | !X | !X | !X |
+| !Superb (+5)| !X | !X | !X | !X |
+| !Great (+4)| | !X | !X | !X |
+| !Good (+3)| | | !X | !X |
+| !Fair (+2)| | | | !X |
+| !Average (+1)| | | | |
+
+---
+
+! Extras
+
+| !Name|!Description |
+
+! Stunts
+
+| !Name|!Description |
+
+---
+
+! Stress
+
+| !Physical (Physique)| | | | |
+| !Mental (Will)| | | | |
+
+! Consequences
+
+| !2 (Mild)| | |
+| !4 (Moderate)| | |
+| !6 (Severe)| | |

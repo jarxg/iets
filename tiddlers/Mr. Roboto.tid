@@ -1,0 +1,49 @@
+created: 20190509005313326
+modified: 20190509025547479
+tags: extras
+title: Mr. Roboto
+type: text/vnd.tiddlywiki
+
+| !Name|Mr. Roboto |
+| !Description|Highly customized laptop made by [[Dawn Rivers]] |
+| !Permission|You must have an aspect that represent your training in the use of Unix-based systems and the password (or the capacity to break Mr. Roboto's security) |
+| !Cost|Mobility |
+
+---
+
+! Aspects
+
+| !High concept|//Digital double-edged sword// |
+| !Trouble|//Low-battery warnings// |
+| !Signature|//Undocumented features// |
+
+! Skills
+
+| !Great (+4)|Security |
+| !Good (+3)|Sturdiness |
+
+---
+
+! Extras
+
+| !Name|!Description |
+| [[External hard-drive]]|A solid-state drive used to expand a computer's storage capacity |
+
+! Stunts
+
+| !Name|!Description |
+| ![[Cellular chip]]|Allows the user to access [[the web]] without the need of a wired connection |
+| ![[GPU OC]]|+2 to [[Burglary]] when breaking-and-entering into encrypted servers at the cost of probably crashing the computer or frying the GPU |
+
+---
+
+! Stress
+
+| !Physical (Sturdiness)| | | | |
+| !Mental (Security)| | | | |
+
+! Consequences
+
+| !2 (Mild)| | |
+| !4 (Moderate)| | |
+| !6 (Severe)| | |
