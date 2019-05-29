@@ -1,12 +1,12 @@
-created: 20190508230422184
+created: 20190528232007821
 list: 
-modified: 20190529044527749
-tags: Sheets
-title: Character Sheet
+modified: 20190529044527729
+tags: resources Sheets
+title: The Pointy Boots
 type: text/vnd.tiddlywiki
 
-| !Name:| |
-| !Description:| |
+| !Name:|The Pointy Boots |
+| !Description:|Nomad electronic punk band |
 
 ---
 
@@ -27,10 +27,8 @@ type: text/vnd.tiddlywiki
 
 ! Skills
 
-| !Legendary (+8)| !X | !X | !X | !X |
-| !Epic (+7)| !X | !X | !X | !X |
-| !Fantastic (+6)| !X | !X | !X | !X |
-| !Superb (+5)| !X | !X | !X | !X |
+<!-- Rockalypse? -->
+
 | !Great (+4)| | !X | !X | !X |
 | !Good (+3)| | | !X | !X |
 | !Fair (+2)| | | | !X |
@@ -41,26 +39,14 @@ type: text/vnd.tiddlywiki
 ! Extras
 
 | !Name|!Description |
+| [[Shirley Bomb]]|Vocals |
+| [[Dalafey Single-Coil]]|Guitar |
+| [[Lofi López]]|Bass and synths |
+| [[Rob Gonzo]]|Drums and rhythm machine |
 
 ! Stunts
 
 | !Name|!Description |
-
----
-
-! Stress
-
-| !Physical (Physique)| | | | |
-| !Mental (Will)| | | | |
-| !Wealth (Resource)| | | | |
-
-! Consequences
-
-| !2 (Mild)| | |
-| !2 (Mild)| | |
-| !4 (Moderate)| | |
-| !6 (Severe)| | |
-| !8 (Extreme)| | |
 
 ---
 
